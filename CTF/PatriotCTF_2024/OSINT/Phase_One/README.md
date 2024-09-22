@@ -8,7 +8,7 @@ We had one of our agents infiltrate an adversary's lab and photograph a gateway 
 
 ## target_product.jpg
 
-![target_product.jpg](/Images/target_product.jpg)
+![target_product.jpg](./Images/target_product.jpg)
 
 ## Solution
 
