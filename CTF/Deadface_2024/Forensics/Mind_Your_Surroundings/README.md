@@ -16,7 +16,7 @@ Password: D34df4c32024$
 
 ## Solution
 
-This challenge involves having access to Deephax's machine, which we accessed through ssh. More details about how I entered [here](https://github.com/anthonyvd1028/Projects/blob/main/CTF/Deadface_2024/Forensics/Mind_Your_Surroundings/README.md).
+This challenge involves having access to Deephax's machine, which we accessed through ssh. More details about how I entered [here](https://github.com/anthonyvd1028/Projects/tree/main/CTF/Deadface_2024/Forensics/Landing_Zone/README.md).
 
 From the description, it seems that the flag won't be found in a file, whether it is hidden or not. Now where else can information be stored if it isn't a file? The answer is environment variables, which plays off the title as it mentions surroundings.
 
